@@ -24,8 +24,7 @@ Designed with a retro-inspired interface and full drag-and-drop support.
 ---
 ## 🖥️ Download
 
-- **ROM PATROL** [DOWNLOAD LINK] (https://github.com/gleegum/ROM-PATROL/blob/main/ROM%20PATROL%20Installer%20Windows.zip
-)
+- **ROM PATROL** [DOWNLOAD LINK](https://github.com/gleegum/ROM-PATROL/blob/main/ROM%20PATROL%20Installer%20Windows.zip)
 
 ---
 
