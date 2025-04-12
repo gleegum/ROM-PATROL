@@ -22,9 +22,17 @@ Designed with a retro-inspired interface and full drag-and-drop support.
 - **OS:** Windows 10 or later  
 
 ---
+## 🖥️ Download
+
+- **ROM PATROL** [DOWNLOAD LINK] (https://github.com/gleegum/ROM-PATROL/blob/main/ROM%20PATROL%20Installer%20Windows.zip
+)
+
+---
 
 ## 🧠 How it works
 
 1. Drag one or more ROM files (ZIP or BIN) into the main window.
 2. Each ROM is verified by its CRC32 checksum.
 3. Matching results will show the ROM name, description, year, and manufacturer.
+
+https://github.com/gleegum/ROM-PATROL/blob/main/ROM%20PATROL%20Installer%20Windows.zip
