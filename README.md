@@ -1,18 +1,23 @@
-# 🎮 ROM PATROL V1.0
+# 🎮 ROM PATROL V1.1.0
 
-**ROM PATROL** is a Windows application for verifying arcade ROM files by comparing them against official [MAME](https://www.mamedev.org/) `.dat` databases.  
+**ROM PATROL** is a Windows application for verifying arcade ROM files by comparing them against [MAME](https://www.mamedev.org/) `.dat` databases.  
 
 ---
 
 ## 🚀 Features
 
-- ✅ Fast CRC32-based ROM verification
-- 🌓 Dark mode / Light mode toggle
-- 🌍 Multi-language support: English 🇬🇧 and Spanish 🇪🇸
-- 📂 Multiple Drag & Drop ROM files directly into the app
-- 💾 Saves language and theme preferences (Administrator Mode)
+- 🖱️ Drag and drop ROM files or folders
+- 🧩 Supports CRC32 and SHA1 hash verification
+- 🌓 Light, Dark, and Terminal interface modes
+- 🔡 English and Spanish language support
 
 ---
+
+## 🧠 How it works
+
+1. Drag one or more ROM files (ZIP or BIN) into the main window.
+2. Each ROM is verified by its CRC32 or SHA1 checksum.
+3. Matching results will show the ROM name, description, year, and manufacturer.
 
 ![screenshot](screenshot.png)
 
@@ -23,14 +28,13 @@
 - **OS:** Windows 10 or later  
 
 ---
+
 ## 🖥️ Download
 
-- **ROM PATROL** [DOWNLOAD LINK](https://github.com/gleegum/ROM-PATROL/archive/refs/heads/main.zip)
+Download the latest Windows installer from the [Releases](https://github.com/yourusername/rompatrol/releases) page.
 
 ---
 
-## 🧠 How it works
+📄 License
+This project is free for personal and educational use. It does not include any ROM files. Users are solely responsible for the ROM content they scan.
 
-1. Drag one or more ROM files (ZIP or BIN) into the main window.
-2. Each ROM is verified by its CRC32 checksum.
-3. Matching results will show the ROM name, description, year, and manufacturer.
