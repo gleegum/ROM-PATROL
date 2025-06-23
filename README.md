@@ -35,6 +35,9 @@ Download the latest Windows installer from the [Releases](https://github.com/gle
 
 ---
 
-📄 License
+## 📄 License
+
 This project is free for personal and educational use. It does not include any ROM files. Users are solely responsible for the ROM content they scan.
+
+---
 
