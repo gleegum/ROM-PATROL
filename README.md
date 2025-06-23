@@ -1,6 +1,6 @@
 # 🎮 ROM PATROL V1.1.0
 
-**ROM PATROL** is a Windows application for verifying arcade ROM files by comparing them against [MAME](https://www.mamedev.org/) `.dat` databases.  
+**ROM PATROL** is a Windows application for verifying arcade ROM files by comparing them against [MAME](https://www.mamedev.org/) databases.  
 
 ---
 
