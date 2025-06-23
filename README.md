@@ -31,7 +31,7 @@
 
 ## 🖥️ Download
 
-Download the latest Windows installer from the [Releases](https://github.com/yourusername/rompatrol/releases) page.
+Download the latest Windows installer from the [Releases](https://github.com/gleegum/ROM-PATROL/releases) page.
 
 ---
 
